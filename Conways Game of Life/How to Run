@@ -1,0 +1,8 @@
+Compile the C++ code and run in a terminal. 
+
+Input the initial state using row,column format and enter -1 when done
+The Board will display the initial state
+
+Every time enter is pressed, the board will update as per the rules of the game of life
+
+To exit, just press any other key then enter
